@@ -1,0 +1,15 @@
+C:\Users\Ambre\Desktop\TP4-DesignPattern\ReceivedLogs\obj\Debug\netcoreapp3.1\ReceivedLogs.csprojAssemblyReference.cache
+C:\Users\Ambre\Desktop\TP4-DesignPattern\ReceivedLogs\obj\Debug\netcoreapp3.1\ReceivedLogs.csproj.CoreCompileInputs.cache
+C:\Users\Ambre\Desktop\TP4-DesignPattern\ReceivedLogs\obj\Debug\netcoreapp3.1\ReceivedLogs.AssemblyInfoInputs.cache
+C:\Users\Ambre\Desktop\TP4-DesignPattern\ReceivedLogs\obj\Debug\netcoreapp3.1\ReceivedLogs.AssemblyInfo.cs
+C:\Users\Ambre\Desktop\TP4-DesignPattern\ReceivedLogs\bin\Debug\netcoreapp3.1\ReceivedLogs.exe
+C:\Users\Ambre\Desktop\TP4-DesignPattern\ReceivedLogs\bin\Debug\netcoreapp3.1\ReceivedLogs.deps.json
+C:\Users\Ambre\Desktop\TP4-DesignPattern\ReceivedLogs\bin\Debug\netcoreapp3.1\ReceivedLogs.runtimeconfig.json
+C:\Users\Ambre\Desktop\TP4-DesignPattern\ReceivedLogs\bin\Debug\netcoreapp3.1\ReceivedLogs.runtimeconfig.dev.json
+C:\Users\Ambre\Desktop\TP4-DesignPattern\ReceivedLogs\bin\Debug\netcoreapp3.1\ReceivedLogs.dll
+C:\Users\Ambre\Desktop\TP4-DesignPattern\ReceivedLogs\bin\Debug\netcoreapp3.1\ReceivedLogs.pdb
+C:\Users\Ambre\Desktop\TP4-DesignPattern\ReceivedLogs\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Ambre\Desktop\TP4-DesignPattern\ReceivedLogs\obj\Debug\netcoreapp3.1\ReceivedLogs.csproj.CopyComplete
+C:\Users\Ambre\Desktop\TP4-DesignPattern\ReceivedLogs\obj\Debug\netcoreapp3.1\ReceivedLogs.dll
+C:\Users\Ambre\Desktop\TP4-DesignPattern\ReceivedLogs\obj\Debug\netcoreapp3.1\ReceivedLogs.pdb
+C:\Users\Ambre\Desktop\TP4-DesignPattern\ReceivedLogs\obj\Debug\netcoreapp3.1\ReceivedLogs.genruntimeconfig.cache
