@@ -1,0 +1,15 @@
+C:\Users\Ambre\Desktop\TP4-DesignPattern\Newtask\bin\Debug\netcoreapp3.1\NewTask.exe
+C:\Users\Ambre\Desktop\TP4-DesignPattern\Newtask\bin\Debug\netcoreapp3.1\NewTask.deps.json
+C:\Users\Ambre\Desktop\TP4-DesignPattern\Newtask\bin\Debug\netcoreapp3.1\NewTask.runtimeconfig.json
+C:\Users\Ambre\Desktop\TP4-DesignPattern\Newtask\bin\Debug\netcoreapp3.1\NewTask.runtimeconfig.dev.json
+C:\Users\Ambre\Desktop\TP4-DesignPattern\Newtask\bin\Debug\netcoreapp3.1\NewTask.dll
+C:\Users\Ambre\Desktop\TP4-DesignPattern\Newtask\bin\Debug\netcoreapp3.1\NewTask.pdb
+C:\Users\Ambre\Desktop\TP4-DesignPattern\Newtask\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Ambre\Desktop\TP4-DesignPattern\Newtask\obj\Debug\netcoreapp3.1\NewTask.csprojAssemblyReference.cache
+C:\Users\Ambre\Desktop\TP4-DesignPattern\Newtask\obj\Debug\netcoreapp3.1\NewTask.csproj.CoreCompileInputs.cache
+C:\Users\Ambre\Desktop\TP4-DesignPattern\Newtask\obj\Debug\netcoreapp3.1\NewTask.AssemblyInfoInputs.cache
+C:\Users\Ambre\Desktop\TP4-DesignPattern\Newtask\obj\Debug\netcoreapp3.1\NewTask.AssemblyInfo.cs
+C:\Users\Ambre\Desktop\TP4-DesignPattern\Newtask\obj\Debug\netcoreapp3.1\NewTask.csproj.CopyComplete
+C:\Users\Ambre\Desktop\TP4-DesignPattern\Newtask\obj\Debug\netcoreapp3.1\NewTask.dll
+C:\Users\Ambre\Desktop\TP4-DesignPattern\Newtask\obj\Debug\netcoreapp3.1\NewTask.pdb
+C:\Users\Ambre\Desktop\TP4-DesignPattern\Newtask\obj\Debug\netcoreapp3.1\NewTask.genruntimeconfig.cache
