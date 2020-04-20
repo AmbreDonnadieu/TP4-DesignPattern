@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YRSMNidAx0RMqsW4fvC1wO87lJb8wccoKVHQhcBMXrOAgccDkAlpCYWHVQ1iwf1LQ4DaVz0f4//5KRnrfckKEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ambre\\Desktop\\TP4-DesignPattern\\ReceivedLogsDirect\\ReceivedLogsDirect.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ambre\\.nuget\\packages\\rabbitmq.client\\6.0.0\\rabbitmq.client.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ambre\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

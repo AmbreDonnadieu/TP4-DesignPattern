@@ -1,0 +1,15 @@
+C:\Users\Ambre\Desktop\TP4-DesignPattern\EmitLogDirect\bin\Debug\netcoreapp3.1\EmitLogDirect.exe
+C:\Users\Ambre\Desktop\TP4-DesignPattern\EmitLogDirect\bin\Debug\netcoreapp3.1\EmitLogDirect.deps.json
+C:\Users\Ambre\Desktop\TP4-DesignPattern\EmitLogDirect\bin\Debug\netcoreapp3.1\EmitLogDirect.runtimeconfig.json
+C:\Users\Ambre\Desktop\TP4-DesignPattern\EmitLogDirect\bin\Debug\netcoreapp3.1\EmitLogDirect.runtimeconfig.dev.json
+C:\Users\Ambre\Desktop\TP4-DesignPattern\EmitLogDirect\bin\Debug\netcoreapp3.1\EmitLogDirect.dll
+C:\Users\Ambre\Desktop\TP4-DesignPattern\EmitLogDirect\bin\Debug\netcoreapp3.1\EmitLogDirect.pdb
+C:\Users\Ambre\Desktop\TP4-DesignPattern\EmitLogDirect\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Ambre\Desktop\TP4-DesignPattern\EmitLogDirect\obj\Debug\netcoreapp3.1\EmitLogDirect.csprojAssemblyReference.cache
+C:\Users\Ambre\Desktop\TP4-DesignPattern\EmitLogDirect\obj\Debug\netcoreapp3.1\EmitLogDirect.csproj.CoreCompileInputs.cache
+C:\Users\Ambre\Desktop\TP4-DesignPattern\EmitLogDirect\obj\Debug\netcoreapp3.1\EmitLogDirect.AssemblyInfoInputs.cache
+C:\Users\Ambre\Desktop\TP4-DesignPattern\EmitLogDirect\obj\Debug\netcoreapp3.1\EmitLogDirect.AssemblyInfo.cs
+C:\Users\Ambre\Desktop\TP4-DesignPattern\EmitLogDirect\obj\Debug\netcoreapp3.1\EmitLogDirect.csproj.CopyComplete
+C:\Users\Ambre\Desktop\TP4-DesignPattern\EmitLogDirect\obj\Debug\netcoreapp3.1\EmitLogDirect.dll
+C:\Users\Ambre\Desktop\TP4-DesignPattern\EmitLogDirect\obj\Debug\netcoreapp3.1\EmitLogDirect.pdb
+C:\Users\Ambre\Desktop\TP4-DesignPattern\EmitLogDirect\obj\Debug\netcoreapp3.1\EmitLogDirect.genruntimeconfig.cache
