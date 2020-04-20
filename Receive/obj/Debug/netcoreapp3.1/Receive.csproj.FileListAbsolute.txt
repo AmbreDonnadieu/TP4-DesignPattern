@@ -1,0 +1,15 @@
+C:\Users\Ambre\Desktop\TP4-DesignPattern\Receive\bin\Debug\netcoreapp3.1\Receive.exe
+C:\Users\Ambre\Desktop\TP4-DesignPattern\Receive\bin\Debug\netcoreapp3.1\Receive.deps.json
+C:\Users\Ambre\Desktop\TP4-DesignPattern\Receive\bin\Debug\netcoreapp3.1\Receive.runtimeconfig.json
+C:\Users\Ambre\Desktop\TP4-DesignPattern\Receive\bin\Debug\netcoreapp3.1\Receive.runtimeconfig.dev.json
+C:\Users\Ambre\Desktop\TP4-DesignPattern\Receive\bin\Debug\netcoreapp3.1\Receive.dll
+C:\Users\Ambre\Desktop\TP4-DesignPattern\Receive\bin\Debug\netcoreapp3.1\Receive.pdb
+C:\Users\Ambre\Desktop\TP4-DesignPattern\Receive\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Ambre\Desktop\TP4-DesignPattern\Receive\obj\Debug\netcoreapp3.1\Receive.csprojAssemblyReference.cache
+C:\Users\Ambre\Desktop\TP4-DesignPattern\Receive\obj\Debug\netcoreapp3.1\Receive.csproj.CoreCompileInputs.cache
+C:\Users\Ambre\Desktop\TP4-DesignPattern\Receive\obj\Debug\netcoreapp3.1\Receive.AssemblyInfoInputs.cache
+C:\Users\Ambre\Desktop\TP4-DesignPattern\Receive\obj\Debug\netcoreapp3.1\Receive.AssemblyInfo.cs
+C:\Users\Ambre\Desktop\TP4-DesignPattern\Receive\obj\Debug\netcoreapp3.1\Receive.csproj.CopyComplete
+C:\Users\Ambre\Desktop\TP4-DesignPattern\Receive\obj\Debug\netcoreapp3.1\Receive.dll
+C:\Users\Ambre\Desktop\TP4-DesignPattern\Receive\obj\Debug\netcoreapp3.1\Receive.pdb
+C:\Users\Ambre\Desktop\TP4-DesignPattern\Receive\obj\Debug\netcoreapp3.1\Receive.genruntimeconfig.cache
