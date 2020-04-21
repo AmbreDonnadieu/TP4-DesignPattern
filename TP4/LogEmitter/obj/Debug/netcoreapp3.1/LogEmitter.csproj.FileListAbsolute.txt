@@ -1,0 +1,15 @@
+C:\Users\Ambre\Desktop\TP4-DesignPattern\TP4\LogEmitter\bin\Debug\netcoreapp3.1\LogEmitter.exe
+C:\Users\Ambre\Desktop\TP4-DesignPattern\TP4\LogEmitter\bin\Debug\netcoreapp3.1\LogEmitter.deps.json
+C:\Users\Ambre\Desktop\TP4-DesignPattern\TP4\LogEmitter\bin\Debug\netcoreapp3.1\LogEmitter.runtimeconfig.json
+C:\Users\Ambre\Desktop\TP4-DesignPattern\TP4\LogEmitter\bin\Debug\netcoreapp3.1\LogEmitter.runtimeconfig.dev.json
+C:\Users\Ambre\Desktop\TP4-DesignPattern\TP4\LogEmitter\bin\Debug\netcoreapp3.1\LogEmitter.dll
+C:\Users\Ambre\Desktop\TP4-DesignPattern\TP4\LogEmitter\bin\Debug\netcoreapp3.1\LogEmitter.pdb
+C:\Users\Ambre\Desktop\TP4-DesignPattern\TP4\LogEmitter\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Ambre\Desktop\TP4-DesignPattern\TP4\LogEmitter\obj\Debug\netcoreapp3.1\LogEmitter.csprojAssemblyReference.cache
+C:\Users\Ambre\Desktop\TP4-DesignPattern\TP4\LogEmitter\obj\Debug\netcoreapp3.1\LogEmitter.csproj.CoreCompileInputs.cache
+C:\Users\Ambre\Desktop\TP4-DesignPattern\TP4\LogEmitter\obj\Debug\netcoreapp3.1\LogEmitter.AssemblyInfoInputs.cache
+C:\Users\Ambre\Desktop\TP4-DesignPattern\TP4\LogEmitter\obj\Debug\netcoreapp3.1\LogEmitter.AssemblyInfo.cs
+C:\Users\Ambre\Desktop\TP4-DesignPattern\TP4\LogEmitter\obj\Debug\netcoreapp3.1\LogEmitter.csproj.CopyComplete
+C:\Users\Ambre\Desktop\TP4-DesignPattern\TP4\LogEmitter\obj\Debug\netcoreapp3.1\LogEmitter.dll
+C:\Users\Ambre\Desktop\TP4-DesignPattern\TP4\LogEmitter\obj\Debug\netcoreapp3.1\LogEmitter.pdb
+C:\Users\Ambre\Desktop\TP4-DesignPattern\TP4\LogEmitter\obj\Debug\netcoreapp3.1\LogEmitter.genruntimeconfig.cache
