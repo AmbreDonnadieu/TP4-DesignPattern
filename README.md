@@ -1,5 +1,5 @@
 # TP4-DesignPattern
-##### par Ambre Donnadieu dans le cadre du cours 8INF956- Programmation avancée de logiciel : Patrons et modèles
+##### par Ambre Donnadieu dans le cadre du cours 8INF956- Programmation avancée de logiciel : Patrons et modèles dans le programme de maitrise de l'UQAC
 
 ## Pour lancer le logiciel : 
 - faire dotnet run via l'invite de commande dans le dossier TP4/FileDump
